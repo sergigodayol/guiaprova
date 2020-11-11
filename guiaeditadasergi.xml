@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="|ES| MOVISTAR LA LIGA FHD">
+    <display-name lang="es">|ES| MOVISTAR LA LIGA FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="|ES| MOVISTAR LIGA CAMPEONES FHD">
+    <display-name lang="es">|ES| MOVISTAR LIGA CAMPEONES FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="|ES| MOVISTAR LA LIGA 1 FHD">
+    <display-name lang="es">|ES| MOVISTAR LA LIGA 1 FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="|ES| MOVISTAR LA LIGA 2 FHD">
+    <display-name lang="es">|ES| MOVISTAR LA LIGA 2 FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="|ES| MOVISTAR LA LIGA 3 FHD">
+    <display-name lang="es">|ES| MOVISTAR LA LIGA 3 FHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+</tv>
